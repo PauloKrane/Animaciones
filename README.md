@@ -1,2 +1,2 @@
 # Animaciones
-Diferentes proyectos de animaciones
+Este repositorio contendrá la realización de diferentes proyectos de animación.
